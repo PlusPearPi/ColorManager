@@ -1,0 +1,17 @@
+C:\Users\dcc27\OneDrive\デスクトップ\ColorManeger\bin\Debug\net6.0-windows\ColorManeger.exe
+C:\Users\dcc27\OneDrive\デスクトップ\ColorManeger\bin\Debug\net6.0-windows\ColorManeger.deps.json
+C:\Users\dcc27\OneDrive\デスクトップ\ColorManeger\bin\Debug\net6.0-windows\ColorManeger.runtimeconfig.json
+C:\Users\dcc27\OneDrive\デスクトップ\ColorManeger\bin\Debug\net6.0-windows\ColorManeger.dll
+C:\Users\dcc27\OneDrive\デスクトップ\ColorManeger\bin\Debug\net6.0-windows\ColorManeger.pdb
+C:\Users\dcc27\OneDrive\デスクトップ\ColorManeger\obj\Debug\net6.0-windows\ColorManeger.csproj.AssemblyReference.cache
+C:\Users\dcc27\OneDrive\デスクトップ\ColorManeger\obj\Debug\net6.0-windows\ColorManeger.Form1.resources
+C:\Users\dcc27\OneDrive\デスクトップ\ColorManeger\obj\Debug\net6.0-windows\ColorManeger.csproj.GenerateResource.cache
+C:\Users\dcc27\OneDrive\デスクトップ\ColorManeger\obj\Debug\net6.0-windows\ColorManeger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcc27\OneDrive\デスクトップ\ColorManeger\obj\Debug\net6.0-windows\ColorManeger.AssemblyInfoInputs.cache
+C:\Users\dcc27\OneDrive\デスクトップ\ColorManeger\obj\Debug\net6.0-windows\ColorManeger.AssemblyInfo.cs
+C:\Users\dcc27\OneDrive\デスクトップ\ColorManeger\obj\Debug\net6.0-windows\ColorManeger.csproj.CoreCompileInputs.cache
+C:\Users\dcc27\OneDrive\デスクトップ\ColorManeger\obj\Debug\net6.0-windows\ColorManeger.dll
+C:\Users\dcc27\OneDrive\デスクトップ\ColorManeger\obj\Debug\net6.0-windows\refint\ColorManeger.dll
+C:\Users\dcc27\OneDrive\デスクトップ\ColorManeger\obj\Debug\net6.0-windows\ColorManeger.pdb
+C:\Users\dcc27\OneDrive\デスクトップ\ColorManeger\obj\Debug\net6.0-windows\ColorManeger.genruntimeconfig.cache
+C:\Users\dcc27\OneDrive\デスクトップ\ColorManeger\obj\Debug\net6.0-windows\ref\ColorManeger.dll
